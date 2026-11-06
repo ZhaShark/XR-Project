@@ -48,4 +48,4 @@ Some challenges we might face include:
 ## 7. Expected Outcome
 We hope to create a small playable VR magic puzzle game. Players will be able to draw Chinese characters in the air using hand tracking and use the magic they create to solve puzzles.
 The project will allow us to explore hand tracking, 3D drawing and character recognition in VR.
-And learn something from the game.
+We hope that player will learn some Chinese words through their game experience. The player will learn from writing simple Chinese characters and understand what it means.
